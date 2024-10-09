@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/xiaoxiaole.new/',
   plugins: [react()],
+  base: '/小音乐.new/',
 })
