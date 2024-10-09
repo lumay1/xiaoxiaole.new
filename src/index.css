@@ -73,3 +73,8 @@ body {
 .font-song {
   font-family: 'Noto Serif SC', serif;
 }
+
+.game-item.selected {
+  border: 2px solid gold;
+  box-shadow: 0 0 10px gold;
+}
